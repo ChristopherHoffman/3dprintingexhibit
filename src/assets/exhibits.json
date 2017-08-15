@@ -1,0 +1,304 @@
+[
+  {
+    "pedistal": 1,
+    "name": "Athena Statue",
+    "description": "This statue was printed in a filament containing marble-powder. It has a soft, powdery texture, and is extremely easy to sand. Half of her helmet was sanded, so try to spot the difference it makes.",
+    "image": "athena.png",
+    "thingiverse": {
+      "title": "Athena of Velletri",
+      "author": "CosmoWenman",
+      "link": "https://www.thingiverse.com/thing:196039"
+    }
+  },
+  {
+    "pedistal": 1,
+    "name": "Brain",
+    "description": "This brain started as a 3D model pulled from an MRI scan. Using the MRI data, the skull was stripped, leaving behind just the brain. It was then printed in a grey PLA.",
+    "image": "brain.png"
+  },
+  {
+    "pedistal": 1,
+    "name": "Stormtrooper Buddahs",
+    "description": "These buddahs are printed in a variety of different colors and materials. The blue and black Buddahs are printed in a flexible, rubber-like material. You can squeeze them, and they will bounce right back to shape. The Grey and Green ones are rigid.",
+    "image": "buddahs.png",
+    "thingiverse": {
+      "title": "Pop Buddha",
+      "author": "tamraz",
+      "link": "https://www.thingiverse.com/thing:1092181"
+    }
+  },
+  {
+    "pedistal": 1,
+    "name": "3D Scanned Busts",
+    "description": "These busts were created from a 3D scans using an XBox kinect and free software. You can scan yourself, and print out busts or bobble heads! The perfect gift.",
+    "image": "busts.png",
+    "youtube": {
+      "title": "3D Scanning at Home!",
+      "author": "Hoffman Engineering",
+      "link": "https://www.youtube.com/watch?v=_cKb3oEM47E"
+    }
+  },
+  {
+    "pedistal": 1,
+    "name": "Cthulhu Medal",
+    "description": "This medal is a gift fitting of The Old Ones. Printed in a royal blue PLA.",
+    "image": "cthulhu.png",
+    "thingiverse": {
+      "title": "Cthulhu Cult Token",
+      "author": "albill",
+      "link": "https://www.thingiverse.com/thing:90131"
+    }
+  },
+  {
+    "pedistal": 2,
+    "name": "D20 Dice Holder",
+    "description": "This dice holder is a great way to carry around all your other 3D printed dice! Printed in a pink PLA, it is strong enough to handle even the worse critical fail.",
+    "image": "d20diceholder.png",
+    "thingiverse": {
+      "title": "D20 Countdown die (dice holder)",
+      "author": "kittka",
+      "link": "https://www.thingiverse.com/thing:1610141"
+    }
+  },
+  {
+    "pedistal": 2,
+    "name": "Dragon-head Door Knockers",
+    "description": "Knock before entering! The purple one was a failed print, but is on diplayed to show what the inside of the print can look like.  One of the settings that is available is how much of the interior to leave empty.  You can change it to print completely hollow, completely filled, or any percentage in between!",
+    "image": "dragons.png",
+    "thingiverse": {
+      "title": "Dragon Door Knocker",
+      "author": "Shira",
+      "link": "https://www.thingiverse.com/thing:1458545"
+    }
+  },
+  {
+    "pedistal": 2,
+    "name": "Eiffel Tower",
+    "description": "This tower is the perfect showcase for the detail that can be achieved with resin 3D printing. The small, delicate features would be tough for a filament-based printer, but the resin printer can easly achieve it. Notice the intricate latice work, the small railing around the platforms, and the crisp spire.",
+    "image": "eiffeltower.png",
+    "thingiverse": {
+      "title": "Eiffel tower",
+      "author": "Newcandle",
+      "link": "https://www.thingiverse.com/thing:912478"
+    },
+    "youtube": {
+      "title": "SLA Resin Print Showcase",
+      "author": "Hoffman Engineering",
+      "link": "https://www.youtube.com/watch?v=ai_HtRplFXI"
+    }
+  },
+  {
+    "pedistal": 1,
+    "name": "Gator Logo",
+    "description": "Being so close to the University of Florida, of course its necessary to print the Gator Logo. Printed in a grey PLA, its the perfect way to say 'Go Gators!'",
+    "image": "gatorlogo.png",
+    "thingiverse": {
+      "title": "Gator Logo",
+      "author": "bcc20009",
+      "link": "https://www.thingiverse.com/thing:1355121"
+    }
+  },
+  {
+    "pedistal": 2,
+    "name": "Girl Scout Logo",
+    "description": "These custom designed Girl Scout logos were created as a fundraising item for a local Girl Scout troop.",
+    "image": "girlscouts.png"
+  },
+  {
+    "pedistal": 1,
+    "name": "Heart",
+    "description": "This anatomically correct heart has embedded LEDs, allowing it to pulse with red light. Printed with thin walls in a red PLA, so the LED light is able to shine right through. ",
+    "image": "heart.png",
+    "thingiverse": {
+      "title": "Anatomical Heart",
+      "author": "cicerone",
+      "link": "https://www.thingiverse.com/thing:932606 "
+    }
+  },
+  {
+    "pedistal": 1,
+    "name": "Illuminati Pyramid",
+    "description": "One of the first test prints, printed in a white PLA. It is watching you!",
+    "image": "illuminatipyramid.png",
+    "thingiverse": {
+      "title": "Illuminati Eye Pyramid",
+      "author": "ClassyGoat",
+      "link": "https://www.thingiverse.com/thing:1419212"
+    }
+  },
+  {
+    "pedistal": 1,
+    "name": "Scissor Lift",
+    "description": "This working lift was printed fully assembled. Turn the crank, and the lift moves up and down. It was printed in a single print, and worked straight after pulling it off the print bed. It is a marvel of engineering.",
+    "image": "lift.png",
+    "thingiverse": {
+      "title": "Platform Jack [Fully Assembled, No Supports]",
+      "author": "Intentional3D",
+      "link": "https://www.thingiverse.com/thing:925556"
+    },
+    "youtube": {
+      "title": "3D Printed Scissor Lift",
+      "author": "Hoffman Engineering",
+      "link": "https://www.youtube.com/watch?v=ypqzatWOZTM"
+    }
+  },
+  {
+    "pedistal": 2,
+    "name": "Lightsabers",
+    "description": "There are many variations of Lightsabers available on the internet. Printed in multiple pieces and glued together, these lightsabers just need a coat of paint to be ready for a cosplay costume.",
+    "image": "lightsabers.png",
+    "thingiverse": {
+      "title": "Luke Skywalker Lightsaber",
+      "author": "infinati",
+      "link": "https://www.thingiverse.com/thing:321812"
+    }
+  },
+  {
+    "pedistal": 3,
+    "name": "Voronoi Pokemon",
+    "description": "These pokemon show what is called a Voronoi pattern, a method of creating an organic-looking lattice. Printed using a resin 3D printer, these small pokemon showcase the amount of detail that can be achieved. The perfect model to hand out as examples.",
+    "image": "lowpolypokemon_resin.png",
+    "thingiverse": {
+      "title": "Voronoi Pokemon",
+      "author": "sir_indy",
+      "link": "https://www.thingiverse.com/thing:1397032"
+    }
+  },
+  {
+    "pedistal": 3,
+    "name": "Low-Poly Pokemon",
+    "description": "Everyone loves pokemon! The bulbasaur is printed in a glow-in-the-dark green ABS, and is a planter! The Squirtle and Charmander are printed in a blue and red PLA, respectively. ",
+    "image": "lowpolypokemon.png",
+    "thingiverse": {
+      "title": "Low-Poly Pokemon",
+      "author": "FLOWALISTIK",
+      "link": "https://www.thingiverse.com/FLOWALISTIK/collections/low-poly-pokemon"
+    },
+    "youtube": {
+      "title": "Repairing Cracked Bulbasaur Planter",
+      "author": "Hoffman Engineering",
+      "link": "https://www.youtube.com/watch?v=Q458yFAKrYk"
+    }
+  },
+  {
+    "pedistal": 2,
+    "name": "Miniatures",
+    "description": "Table top gaming is a perfect use for 3D printers. Everyone wants to be able to make their own custom characters. Here we showcase the same model printed with the resin printer (clear), and a filament printer (teal), so that one can compare the differences in details.",
+    "image": "mageminiature.png",
+    "thingiverse": {
+      "title": null,
+      "author": null,
+      "link": null
+    },
+    "youtube": {
+      "title": "Showcased in SLA vs FDM",
+      "author": "Hoffman Engineering",
+      "link": "https://www.youtube.com/watch?v=qvAVYLcvVr8"
+    }
+  },
+  {
+    "pedistal": 2,
+    "name": "Octopus Keychains",
+    "description": "The perfect fidget toy, as the arms are fully movable. Printed disassbled, but on the same print bed, it only required popping the 64 arm pieces in place to assemble it.",
+    "image": "octopuses.png",
+    "thingiverse": {
+      "title": null,
+      "author": null,
+      "link": null
+    }
+  },
+  {
+    "pedistal": 3,
+    "name": "Oddish Planter",
+    "description": "This Oddish planter is a cute application of 3D printing. The plastic was painted using acrylic paints, and then a fake plant was glued into place.",
+    "image": "oddish.png",
+    "thingiverse": {
+      "title": null,
+      "author": null,
+      "link": null
+    }
+  },
+  {
+    "pedistal": 2,
+    "name": "Pipboy 3000",
+    "description": "This Pipboy 3000 was printed as part of a cosplay costume, and is designed for a cellphone to be used as the screen. It is designed to be worn on the wrist, and includes velcro straps to hold onto the arm. The clampshell clasp is held together with magnets. Printed in multiple pieces and glued together, finished with spraypaints and acrylic paints.",
+    "image": "pipboy.png",
+    "thingiverse": {
+      "title": null,
+      "author": null,
+      "link": null
+    },
+    "youtube": {
+      "title": "3D Printed Pipboy 3000",
+      "author": "Hoffman Engineering",
+      "link": "https://www.youtube.com/watch?v=2Xhfz3AUfps"
+    }
+  },
+  {
+    "pedistal": 1,
+    "name": "Pliers",
+    "description": "3D prints can be functional as well as ornamental. This working set of pliers were printed fully assembled, and apply a surprising amount of force when used.",
+    "image": "pliers.png",
+    "thingiverse": {
+      "title": "Adjustable Groove-Joint Pliers",
+      "author": "jsteuben",
+      "link": "https://www.thingiverse.com/thing:745743"
+    }
+  },
+  {
+    "pedistal": 1,
+    "name": "Recorder",
+    "description": "This working recorder would be the highlight of any concert. It shows that even musical instruments can be printed with a 3D printer.",
+    "image": "recorder.png",
+    "thingiverse": {
+      "title": "Recorder V2.2 (instrument)",
+      "author": "cymon",
+      "link": "https://www.thingiverse.com/thing:12301"
+    }
+  },
+  {
+    "pedistal": 1,
+    "name": "Roses",
+    "description": "These roses are a perfect test print. Quick to print, these are a great baseline to compare different material colors and types. They are also great for any occasion!",
+    "image": "rose.png",
+    "thingiverse": {
+      "title": "Printable Rose Flower",
+      "author": "Jerrill",
+      "link": "https://www.thingiverse.com/thing:283738"
+    }
+  },
+  {
+    "pedistal": 2,
+    "name": "3-headed Skull",
+    "description": "",
+    "image": "skulls.png"
+  },
+  {
+    "pedistal": 2,
+    "name": "Table-top Minatures",
+    "description": "Whole minature sets are available to download and print. You can create an endless amount of scenary, and enhance any table-top gaming experience. Atleast, until the dragons show up.",
+    "image": "tabletop.png"
+  },
+  {
+    "pedistal": 2,
+    "name": "Mjolnir (Thor's Hammer)",
+    "description": "These hammers were printed in two separate parts, a brown PLA for the handle, and a grey PLA for the hammer head. This shows that it is easy to scale the same model to different sizes before printing.",
+    "image": "thorhammer.png",
+    "thingiverse": {
+      "title": "Thor's Hammer",
+      "author": "Skimbal",
+      "link": "https://www.thingiverse.com/thing:17637"
+    }
+  },
+  {
+    "pedistal": 3,
+    "name": "Animatronic Caterpie",
+    "description": "This caterpie is robotic! It contains multiple servos, controlled by an Arduino microcontroller, and will make random movements when on. It is magnetically attached to it's base, so it is able to stand up in the cage, but also be easily removed and handed around. Designed as part of a Bug Catch cosplay costume, it is a big attraction at conventions. Printed in a blue ABS, and then painted and wired with electronics.",
+    "image": "caterpie.png",
+    "youtube": {
+      "title": "Real Life Pokemon - Caterpie",
+      "author": "Hoffman Engineering",
+      "link": "https://www.youtube.com/watch?v=YWd5DYXujQw"
+    }
+  }
+]

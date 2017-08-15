@@ -1,0 +1,21 @@
+.post-container {
+  margin: 2px auto;
+  padding: 5px;
+  border: 0px solid #444;
+  overflow: auto;
+  max-width: 800px;
+  background-color: whitesmoke;
+}
+.post-thumb {
+  float: left;
+}
+.post-thumb img {
+  display: block;
+}
+.post-content {
+  margin-left: 210px;
+}
+.post-title {
+  font-weight: bold;
+  font-size: 200%;
+}
